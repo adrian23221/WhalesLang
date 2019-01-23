@@ -1,0 +1,2 @@
+# WhalesLang
+JS 
